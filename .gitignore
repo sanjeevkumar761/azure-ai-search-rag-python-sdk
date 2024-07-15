@@ -1,0 +1,6 @@
+searchvenv
+.env
+*.json
+*.rest
+old-README.md
+langchain-index-test-rag.py  
